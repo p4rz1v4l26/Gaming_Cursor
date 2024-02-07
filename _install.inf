@@ -1,6 +1,6 @@
 
 [Version]
-signature="$P4RZ1V4L_26$"
+signature="$CHICAGO$"
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur, Scheme.Txt
