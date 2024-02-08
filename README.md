@@ -2,4 +2,4 @@
 
 Simple Gaming Cursor using C#
 
-##Ready to Install
+Ready to Install
